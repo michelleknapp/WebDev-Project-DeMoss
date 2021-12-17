@@ -1,0 +1,33 @@
+body{
+    background-color: lightyellow;
+}
+h1{
+    color: rgb(1, 58, 1);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: solid white;
+    text-align: center;
+}
+.desc{
+    color: rgb(1, 58, 1);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    text-align:left  
+}
+.tableauPlaceholder{
+    width: 500px;
+    height: auto;}
+a{
+    color: rgb(1, 58, 1);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+p{
+    color: rgb(1, 58, 1);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+hr{
+    width: auto;
+    color: white;
+}
+.navigationbar{
+    text-align: right;
+}
